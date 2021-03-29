@@ -1,0 +1,14 @@
+C:\Users\ma_li\Desktop\musicplay_demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\ma_li\Desktop\musicplay_demo\Demo\bin\Debug\Demo.exe
+C:\Users\ma_li\Desktop\musicplay_demo\Demo\bin\Debug\Demo.pdb
+C:\Users\ma_li\Desktop\musicplay_demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\ma_li\Desktop\musicplay_demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\ma_li\Desktop\musicplay_demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\ma_li\Desktop\musicplay_demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\ma_li\Desktop\musicplay_demo\Demo\obj\Debug\Demo.exe
+C:\Users\ma_li\Desktop\musicplay_demo\Demo\obj\Debug\Demo.pdb
+C:\Users\ma_li\Desktop\musicplay_demo\Demo\bin\Debug\MetroFramework.Design.dll
+C:\Users\ma_li\Desktop\musicplay_demo\Demo\bin\Debug\MetroFramework.dll
+C:\Users\ma_li\Desktop\musicplay_demo\Demo\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ma_li\Desktop\musicplay_demo\Demo\obj\Debug\Demo.csproj.CopyComplete
+C:\Users\ma_li\Desktop\musicplay_demo\Demo\obj\Debug\Demo.Form1.resources
